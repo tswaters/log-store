@@ -1,0 +1,14 @@
+{
+  "name": "log-store",
+  "description": "log-store",
+  "main": "./log-store.js",
+  "authors": [
+    "Tyler Waters <tyler.waters@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tswaters/log-store#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswaters/log-store.git"
+  }
+}

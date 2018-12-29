@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "sourceMap": false,
+    "locale": "en-ca",
+    "target": "es6",
+    "declaration": false,
+    "strictNullChecks": true,
+    "noImplicitUseStrict": false,
+    "allowUnreachableCode": false,
+    "noUnusedLocals": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "lib": [
+      "es2015",
+      "es2017",
+      "dom"
+    ]
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
